@@ -1,0 +1,21 @@
+{
+    "name": "licitacoes-app",
+    "version": "1.0.0",
+    "main": "App.js",
+    "scripts": {
+        "start": "react-native start",
+        "android": "react-native run-android"
+    },
+    "dependencies": {
+        "@react-navigation/native": "^6.1.6",
+        "@react-navigation/native-stack": "^6.10.10",
+        "@types/react": "18.3.12",
+        "react": "18.3.1",
+        "react-native": "0.76.2"
+    },
+    "devDependencies": {
+        "@react-native-community/cli": "latest",
+        "@babel/core": "^7.21.3",
+        "@babel/runtime": "^7.21.0"
+    }
+}
